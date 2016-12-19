@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"DoxyDoc",
+		"FileBrowser",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Package Syncing"
+	]
+}

@@ -1,0 +1,4 @@
+[
+	{"keys":["super+alt+z"],"command":"goto_definition"},
+	
+]

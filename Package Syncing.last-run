@@ -1,0 +1,47 @@
+{
+    "last_local_data": {
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1474365532.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings", 
+            "version": 1481528285.0
+        }, 
+        "Preferences 10.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Preferences 10.sublime-settings", 
+            "version": 1474452569.0
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings", 
+            "version": 1481528286.0
+        }
+    }, 
+    "last_remote_data": {
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text/Default (OSX).sublime-keymap", 
+            "version": 1474365532.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text/Package Control.sublime-settings", 
+            "version": 1481528285.0
+        }, 
+        "Preferences 10.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text/Preferences 10.sublime-settings", 
+            "version": 1474452569.0
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text/Preferences.sublime-settings", 
+            "version": 1481528286.0
+        }
+    }, 
+    "remove_packages": []
+}
